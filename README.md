@@ -19,6 +19,11 @@ A fully interactive **Machine Learning Dashboard** built with **Streamlit** to p
 Screenshots / Demos
 Example: ![Dashboard Preview](https://github.com/sabareeswaran137K/Customer-Churn-Prediction-Dashboard/blob/main/Screenshot%202025-11-02%20215922.png)
 
+👨‍💻 Developed By
+Sabareeswaran K
+🎓 Data Analytics Intern — Zidio Development Pvt. Ltd.
+📧 hr@zidio.in
+🌐 www.zidio.in
 
 ## 🧮 Run Locally
 
@@ -36,6 +41,7 @@ pip install -r requirements.txt
 
 # Run app
 streamlit run App.py
+
 
 
 
