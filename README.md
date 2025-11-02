@@ -14,6 +14,11 @@ A fully interactive **Machine Learning Dashboard** built with **Streamlit** to p
 - **Backend:** Scikit-learn, Pandas
 - **Model:** Gradient Boosting Classifier
 - **Language:** Python 3.10+
+📊 Dashboard Overview
+
+Screenshots / Demos
+Example: ![Dashboard Preview](https://github.com/sabareeswaran137K/Customer-Churn-Prediction-Dashboard/blob/main/Screenshot%202025-11-02%20215922.png)
+
 
 ## 🧮 Run Locally
 
@@ -27,12 +32,10 @@ cd customer-churn-prediction
 # Install dependencies
 pip install -r requirements.txt
 
-📊 Dashboard Overview
-Screenshots / Demos
-Example: ![Dashboard Preview](https://github.com/sabareeswaran137K/Customer-Churn-Prediction-Dashboard/blob/main/Screenshot%202025-11-02%20215922.png)
 
 
 # Run app
 streamlit run App.py
+
 
 
